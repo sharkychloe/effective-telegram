@@ -8,4 +8,6 @@ editor: visual
 
 Here is natalie eating some bread.
 
-![](images/me eating.JPG)
+![](images/me%20eating.JPG)
+
+That bread looks yummy
